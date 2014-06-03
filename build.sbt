@@ -2,7 +2,7 @@ organization := "com.typesafe"
 
 name := "jstranspiler"
 
-version := "1.0.0"
+version := "1.0.1-SNAPSHOT"
 
 libraryDependencies ++= Seq(
   "org.webjars" % "mkdirp" % "0.3.5",

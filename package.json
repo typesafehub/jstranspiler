@@ -1,6 +1,6 @@
 {
 	"name": "jstranspiler",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "A js lib for providing a convenient framework in order to process a set of source files and produce a set of output files",
 	"keywords": ["transpiler", "framework"],
 	"homepage": "https://github.com/typesafehub/jstranspiler#jstranspiler",
