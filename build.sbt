@@ -2,11 +2,11 @@ organization := "com.typesafe"
 
 name := "jstranspiler"
 
-version := "1.0.0-SNAPSHOT"
+version := "1.0.0"
 
 libraryDependencies ++= Seq(
   "org.webjars" % "mkdirp" % "0.3.5",
-  "org.webjars" % "when-node" % "3.2.2-SNAPSHOT"
+  "org.webjars" % "when-node" % "3.2.2"
 )
 
 resolvers ++= Seq(
